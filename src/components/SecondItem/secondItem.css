@@ -1,0 +1,27 @@
+.tags-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: beige;
+    box-shadow: 0px 1px 8px 6px rgba(34, 60, 80, 0.2);
+    margin-top: 30px;
+}
+
+.tags {
+    font-weight: 500;
+    padding: 10px 20px;
+}
+
+.count-wrapper {
+    background-color: white;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.count {
+    background-color:rgb(235, 234, 233);
+    display: inline;
+    padding: 2px;
+    border-radius: 5px;
+}
